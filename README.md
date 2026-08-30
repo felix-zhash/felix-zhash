@@ -1,6 +1,6 @@
-# 👨‍🏫 Felix — Docente y Analista Programador Universitario
+# 👨‍🏫 Felix Zamora— Docente y Analista Programador Universitario
 
-## 👋 Sobre mí
+## Sobre mí
 
 Soy **docente y Analista Programador Universitario**, con un fuerte interés en la **educación, las Tecnologías de la Información y la Comunicación (TIC)** y las nuevas tecnologías aplicadas a los procesos de enseñanza y aprendizaje.
 
