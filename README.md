@@ -1,8 +1,8 @@
-# 👨‍🏫 Felix Zamora— Docente y Analista Programador Universitario
+# 👨‍🏫 Felix Zamora— Entusiasta de las TIC
 
 ## Sobre mí
 
-Soy **docente y Analista Programador Universitario**, con un fuerte interés en la **educación, las Tecnologías de la Información y la Comunicación (TIC)** y las nuevas tecnologías aplicadas a los procesos de enseñanza y aprendizaje.
+Soy **Docente **, con un fuerte interés en la **educación, las Tecnologías de la Información y la Comunicación (TIC)** y las nuevas tecnologías aplicadas a los procesos de enseñanza y aprendizaje.
 
 Mi formación en el área de programación y mi experiencia en el ámbito educativo me permiten integrar conocimientos **tecnológicos, informáticos y pedagógicos**, buscando que la tecnología sea una herramienta que facilite el aprendizaje, fomente la creatividad y permita desarrollar nuevas competencias en los estudiantes.
 
