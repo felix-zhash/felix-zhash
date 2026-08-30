@@ -225,6 +225,6 @@ Cada repositorio, proyecto y experiencia constituye una nueva oportunidad para *
 
 ### 👨‍🏫 Docente
 
-### 👨‍💻 Analista Programador Universitario
+### 👨‍💻 Programador
 
 ### 💻 TIC | 🤖 Inteligencia Artificial | 🎓 Educación | 🚀 Tecnología
